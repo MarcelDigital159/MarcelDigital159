@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcelDigital159
 - 👀 I’m interested in Front-End Design, 3D Websites & VR
-- 🌱 I’m currently learning Three JS
-- 💞️ I’m looking to collaborate on Front-End Projects and 3D Design
+- 🌱 I’m currently learning Three JS and streghthen my coding skills!
+- 💞️ I’m looking to collaborate on Front-End Projects, and 3D Design
 - 📫 How to reach me by email: MarcelEnglish3005@gmail.com & on Twitter @MarcelTheory
 
 <!---
